@@ -1,11 +1,14 @@
 # Environment-Monitoring-System
-
-<img width="1919" height="1079" alt="Screenshot 2026-03-20 220203" src="https://github.com/user-attachments/assets/fd5a15bd-3726-46ac-853e-c4d6238da91d" />
-<img width="1919" height="1079" alt="Screenshot 2026-03-20 220139" src="https://github.com/user-attachments/assets/61a6a23e-d92e-4bb8-b9e6-35881ba4f766" />
-<img width="1919" height="1079" alt="Screenshot 2026-03-20 220032" src="https://github.com/user-attachments/assets/4bc55a2a-42d4-4e21-a96c-443cbb5abd27" />
-<img width="1919" height="1079" alt="Screenshot 2026-03-20 214953" src="https://github.com/user-attachments/assets/f4549436-77a9-4f30-be4e-8bdc3ca24b58" />
 ## Project Overview
 This project serves as a live monitoring system for environmental data in remote areas.
+<img width="1919" height="1079" alt="Screenshot 2026-03-20 214953" src="https://github.com/user-attachments/assets/f4549436-77a9-4f30-be4e-8bdc3ca24b58" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-20 220032" src="https://github.com/user-attachments/assets/4bc55a2a-42d4-4e21-a96c-443cbb5abd27" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-20 220139" src="https://github.com/user-attachments/assets/61a6a23e-d92e-4bb8-b9e6-35881ba4f766" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-20 220203" src="https://github.com/user-attachments/assets/fd5a15bd-3726-46ac-853e-c4d6238da91d" />
+
+
+
+
 
 ## System Architecture
 ### Hardware
