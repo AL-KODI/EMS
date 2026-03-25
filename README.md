@@ -15,7 +15,7 @@ This project serves as a live monitoring system for environmental data in remote
 ### Hardware
 - **Sensors**: Air Temparature, Water Temparature, Humidity in the Air
 - **Communication Devices**: SIM800 GSM Module, ESP32 WIFI
-
+- **Hardware Communication Protocols**: I2C, UART, One Wire, SPI, HTTP
 ### Software Stack
 - **Frontend**: Developed using **React** for a dynamic user experience.
 - **Backend**: Built on **ASP.NET** with **SQL Server** to manage and query data efficiently.
