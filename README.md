@@ -7,6 +7,7 @@ This project serves as a live monitoring system for environmental data in remote
 <img width="1919" height="1079" alt="Screenshot 2026-03-20 220203" src="https://github.com/user-attachments/assets/fd5a15bd-3726-46ac-853e-c4d6238da91d" />
 
 
+![photo_2026-03-25_15-10-11](https://github.com/user-attachments/assets/781a5bba-40cf-40cc-b523-d7f50fabb9ff)
 
 
 
